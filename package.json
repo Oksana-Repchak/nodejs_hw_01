@@ -22,6 +22,7 @@
   "homepage": "https://github.com/Oksana-Repchak/nodejs_hw_01#readme",
   "dependencies": {
     "nodemon": "^2.0.7",
-    "shortid": "^2.2.16"
+    "shortid": "^2.2.16",
+    "yargs": "^16.2.0"
   }
 }
